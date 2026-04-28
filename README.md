@@ -56,12 +56,6 @@ The broader research effort includes Physics-Informed Neural Network (PINN) mode
 
 ![PINN model development workflow](assets/pinn-model-workflow.png)
 
-## Repository Contents
-
-- `assets/`: figures extracted from the project description document for GitHub preview.
-- `docs/DT Modeling.docx`: source document describing the current digital twin modeling work and supporting references.
-- `README.md`: repository overview and project description for GitHub.
-
 ## References
 
 - Yujin Kim, Juwan Ha, Seungmin Lee, Soolyeon Cho. (2026). Ontology-Based Semantic Modeling of HVAC Systems in the Office Building: A Foundation for Scalable Control and Digital Twin Integration. 2026 ASHRAE Winter Conference, Las Vegas.
